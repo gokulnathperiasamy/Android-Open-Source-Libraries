@@ -2,23 +2,50 @@
 
 > Forked from [Trinea/android-open-project](https://github.com/Trinea/android-open-project) and made a little modifications!
 
-#### [Android develop and debug efficiency tool - Developer Tools App](https://play.google.com/store/apps/details?id=cn.trinea.android.developertools)
+###### 1. Personalized Views
 
->[1. Personalized Views](https://github.com/Trinea/android-open-project/tree/master/English%20Version#first-part-personalized-views)  
-*&nbsp;&nbsp;include [ListView](https://github.com/Trinea/android-open-project/tree/master/English%20Version#first-listview), [ActionBar](https://github.com/Trinea/android-open-project/tree/master/English%20Version#second-actionbar), [Menu](https://github.com/Trinea/android-open-project/tree/master/English%20Version#third-menu), [ViewPager](https://github.com/Trinea/android-open-project/tree/master/English%20Version#fourth-viewpager-gallery), [Gallery](https://github.com/Trinea/android-open-project/tree/master/English%20Version#fifth-gridview), [ImageView](https://github.com/Trinea/android-open-project/tree/master/English%20Version#sixth-imageview), [ProgressBar](https://github.com/Trinea/android-open-project/tree/master/English%20Version#seventh-progressbar), [TextView](https://github.com/Trinea/android-open-project/tree/master/English%20Version#eighth-textview),[ScrollView](), [TimeView](), [TipView](), [FlipView](), [ColorPickView](), [GraphView](), [UI Style](),  [Others](https://github.com/Trinea/android-open-project/tree/master/English%20Version#ninth-others)*  
-[2. Common Util Libs](https://github.com/Trinea/android-open-project/tree/master/English%20Version#second-part-common-util-libs)  
-*&nbsp;&nbsp;include [Dependency Injection](https://github.com/Trinea/android-open-project/tree/master/English%20Version#first-dependency-injection), [ImageCache](https://github.com/Trinea/android-open-project/tree/master/English%20Version#second-image-cache), [Network](https://github.com/Trinea/android-open-project/tree/master/English%20Version#third-network), [Database ORM](https://github.com/Trinea/android-open-project/tree/master/English%20Version#fourth-database-orm), [Android common lib](https://github.com/Trinea/android-open-project/tree/master/English%20Version#fifth-android-common-lib), [Compatible low version](https://github.com/Trinea/android-open-project/tree/master/English%20Version#sixth-android-compatible-low-version), [Multimedia](https://github.com/Trinea/android-open-project/tree/master/English%20Version#seventh-multimedia), [Event Bus](https://github.com/Trinea/android-open-project/tree/master/English%20Version#eighth-event-bus), [Sensor](https://github.com/Trinea/android-open-project/tree/master/English%20Version#ninth-sensor), [Security](https://github.com/Trinea/android-open-project/tree/master/English%20Version#tenth-security), [Plug-in](), [File](), [Others](https://github.com/Trinea/android-open-project/tree/master/English%20Version#eleventh-others)*  
-[3. Excellent projects](https://github.com/Trinea/android-open-project/tree/master/English%20Version#third-part-excellent-projects)  
-*&nbsp;&nbsp;more interesting android project*  
-[4. Development and testing tools](https://github.com/Trinea/android-open-project/tree/master/English%20Version#forth-part-development-and-testing-tools)  
-*&nbsp;&nbsp;include [Development productivity tools](https://github.com/Trinea/android-open-project/tree/master/English%20Version#first-development-productivity-tools), [Develop self-test related](https://github.com/Trinea/android-open-project/tree/master/English%20Version#second-develop-self-test-related), [Testing tools](https://github.com/Trinea/android-open-project/tree/master/English%20Version#third-testing-tools), [Development and build environment](https://github.com/Trinea/android-open-project/tree/master/English%20Version#fourth-development-and-build-environment), [Others](https://github.com/Trinea/android-open-project/tree/master/English%20Version#fifth-others)*  
-[5. Outstanding individuals and groups](https://github.com/Trinea/android-open-project/tree/master/English%20Version#fifth-part-outstanding-individuals-and-groups)  
-*&nbsp;&nbsp;Willing to share and have some very good open source project [Individual](https://github.com/Trinea/android-open-project/tree/master/English%20Version#first-individual) and [Group](https://github.com/Trinea/android-open-project/tree/master/English%20Version#second-group)，include JakeWharton, Chris Banes, Koushik Dutta and so on*
-  
-*Thank [likebamoo](https://github.com/likebamboo)  [vmlinz](https://github.com/vmlinz)  [xalexchen](https://github.com/xalexchen)  [youxiachai](https://github.com/youxiachai) [stormzhang](https://github.com/stormzhang)*  
+- [ListView](https://github.com/Trinea/android-open-project/tree/master/English%20Version#first-listview)
+- [ActionBar](https://github.com/Trinea/android-open-project/tree/master/English%20Version#second-actionbar)
+- [Menu](https://github.com/Trinea/android-open-project/tree/master/English%20Version#third-menu)
+- [ViewPager](https://github.com/Trinea/android-open-project/tree/master/English%20Version#fourth-viewpager-gallery)
+- [Gallery](https://github.com/Trinea/android-open-project/tree/master/English%20Version#fifth-gridview)
+- [ImageView](https://github.com/Trinea/android-open-project/tree/master/English%20Version#sixth-imageview)
+- [ProgressBar](https://github.com/Trinea/android-open-project/tree/master/English%20Version#seventh-progressbar)
+- [TextView](https://github.com/Trinea/android-open-project/tree/master/English%20Version#eighth-textview)
+- [ScrollView](), [TimeView](), [TipView](), [FlipView](), [ColorPickView](), [GraphView](), [UI Style](),  [Others](https://github.com/Trinea/android-open-project/tree/master/English%20Version#ninth-others)*  
+
+###### 2. Common Util Libs
+
+- [Dependency Injection](https://github.com/Trinea/android-open-project/tree/master/English%20Version#first-dependency-injection)
+- [ImageCache](https://github.com/Trinea/android-open-project/tree/master/English%20Version#second-image-cache)
+- [Network](https://github.com/Trinea/android-open-project/tree/master/English%20Version#third-network)
+- [Database ORM](https://github.com/Trinea/android-open-project/tree/master/English%20Version#fourth-database-orm)
+- [Android common lib](https://github.com/Trinea/android-open-project/tree/master/English%20Version#fifth-android-common-lib)
+- [Compatible low version](https://github.com/Trinea/android-open-project/tree/master/English%20Version#sixth-android-compatible-low-version)
+- [Multimedia](https://github.com/Trinea/android-open-project/tree/master/English%20Version#seventh-multimedia)
+- [Event Bus](https://github.com/Trinea/android-open-project/tree/master/English%20Version#eighth-event-bus)
+- [Sensor](https://github.com/Trinea/android-open-project/tree/master/English%20Version#ninth-sensor)
+- [Security](https://github.com/Trinea/android-open-project/tree/master/English%20Version#tenth-security)
+ -[Plug-in](), [File](), [Others](https://github.com/Trinea/android-open-project/tree/master/English%20Version#eleventh-others)*  
+ 
+###### 3. Excellent projects
+
+###### 4. Development and testing tools
+
+- [Development productivity tools](https://github.com/Trinea/android-open-project/tree/master/English%20Version#first-development-productivity-tools)
+- [Develop self-test related](https://github.com/Trinea/android-open-project/tree/master/English%20Version#second-develop-self-test-related)
+- [Testing tools](https://github.com/Trinea/android-open-project/tree/master/English%20Version#third-testing-tools)
+- [Development and build environment](https://github.com/Trinea/android-open-project/tree/master/English%20Version#fourth-development-and-build-environment)
+- [Others](https://github.com/Trinea/android-open-project/tree/master/English%20Version#fifth-others)*  
+
+###### 5. Outstanding individuals and groups
+
+- [Individual](https://github.com/Trinea/android-open-project/tree/master/English%20Version#first-individual)
+- [Group](https://github.com/Trinea/android-open-project/tree/master/English%20Version#second-group)，include JakeWharton, Chris Banes, Koushik Dutta and so on*
 
 ## 1. Personalized Views  
-Customed View. include ListView, ActionBar, Menu, ViewPager, Gallery, GridView, ImageView, ProgressBar, Dialog, Toast, EditText, TableView, Activity Animation and so on。  
+Customed View. include ListView, ActionBar, Menu, ViewPager, Gallery, GridView, ImageView, ProgressBar, Dialog, Toast, EditText, TableView, Activity Animation and so on...
+
 #### 1. ListView  
 1. android-pulltorefresh  
 Provide a reusable Pull to Refresh widget for Android, support ListView, ExpandableListView, GridView, WebView, ScrollView, HorizontalScrollView, ViewPager, support pulling Down from the top, and Pulling Up from the bottom and so on.  
