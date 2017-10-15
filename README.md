@@ -7,22 +7,31 @@
 - [Retrofit](https://github.com/square/retrofit) Type-safe HTTP client for Android and Java applications.
 - [Picasso](https://github.com/square/picasso) A powerful image downloading and caching library for Android.
 - [Glide](https://github.com/bumptech/glide) An image loading and caching library for Android focused on smooth scrolling.
-- [RxJava](https://github.com/ReactiveX/RxJava) Reactive Extensions for the JVM
+- [RxAndroid](https://github.com/ReactiveX/RxAndroid) RxJava bindings for Android.
 - [Google Dagger](https://github.com/google/dagger) A fast dependency injector for Android and Java.
 - [Timber](https://github.com/JakeWharton/timber) A logger with a small, extensible API which provides utility on top of Android's normal Log class.
 - [Gson](https://github.com/google/gson) A Java serialization/deserialization library to convert Java Objects into JSON and back.
 - [EventBus](https://github.com/greenrobot/EventBus) Simplifies communication between Activities, Fragments, Threads, Services, etc. 
+- [Otto](https://github.com/square/otto) An enhanced Guava-based event bus with emphasis on Android support.
+- [Android Times Square](https://github.com/square/android-times-square) Standalone Android widget for picking a single date from a calendar view.
 - [Sensey](https://github.com/nisrulz/sensey) Play with sensor events & detect gestures in a snap.
 - [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) Android chart view / graph view library.
+- [Toasty](https://github.com/GrenderG/Toasty) Customized toast.
+- [StyleableToast](https://github.com/Muddz/StyleableToast) Stylable toast.
+- [ArcNavigationView](https://github.com/rom4ek/ArcNavigationView) NavigationDrawer with Material concepts.
+- [ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView) A custom recycler view with shimmer views to indicate that views are loading.
+- [Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon) Google launcher-style implementation of switch (enable/disable) icon.
 - [ZXing](https://github.com/zxing/zxing) ZXing ("Zebra Crossing") barcode scanning library for Java, Android.
 - [QRGen](https://github.com/kenglxn/QRGen) A simple QRCode generation api for java built on top ZXING.
 - [Realm](https://github.com/realm/realm-java) Realm is a mobile database: a replacement for SQLite & ORMs.
 - [ORMLite](http://ormlite.com/sqlite_java_android_orm.shtml) Lightweight Java ORM Supports Android and SQLite.
 - [RxCache](https://github.com/VictorAlbertos/RxCache) Reactive caching library for Android and Java.
 - [LitePal](https://github.com/LitePalFramework/LitePal) An Android library that makes developers use SQLite database extremely easy.
+- [Chuck](https://github.com/jgilfelt/chuck) An in-app HTTP inspector for Android OkHttp clients.
 - [LeakCanary](https://github.com/square/leakcanary) A memory leak detection library for Android and Java.
 - [RoboElectric](https://github.com/robolectric/robolectric) Android Unit Testing Framework.
 - [Mockito](https://github.com/mockito/mockito) Mocking framework for unit tests written in Java.
+- [Spoon](https://github.com/square/spoon) Distributing instrumentation tests to all your Androids.
 - [Triple-T - Gradle Play Publisher](https://github.com/Triple-T/gradle-play-publisher) Gradle Plugin to upload your APK and metadata to the Google Play Store.
 - [Material Design Icons](https://github.com/google/material-design-icons) Material Design icons by Google.
 - [Open Source UI Libraries](https://github.com/gokulnathperiasamy/Android-Open-Source-UI-Libraries) A curated list of awesome Android UI/UX libraries.
