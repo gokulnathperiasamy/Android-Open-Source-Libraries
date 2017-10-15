@@ -1,4 +1,6 @@
-# Android Open Source Projects
+# Android Open Source Library
+
+> A collection of most popular and well known Android libraries.
 
 - [ButterKnife](https://github.com/JakeWharton/butterknife) Bind Android views and callbacks to fields and methods.
 - [OkHttp](https://github.com/square/okhttp) An HTTP+HTTP/2 client for Android and Java applications.
@@ -13,8 +15,12 @@
 - [Sensey](https://github.com/nisrulz/sensey) Play with sensor events & detect gestures in a snap.
 - [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) Android chart view / graph view library.
 - [ZXing](https://github.com/zxing/zxing) ZXing ("Zebra Crossing") barcode scanning library for Java, Android.
+- [QRGen](https://github.com/kenglxn/QRGen) A simple QRCode generation api for java built on top ZXING.
 - [ORMLite](http://ormlite.com/sqlite_java_android_orm.shtml) Lightweight Java ORM Supports Android and SQLite.
 - [RxCache](https://github.com/VictorAlbertos/RxCache) Reactive caching library for Android and Java.
 - [LitePal](https://github.com/LitePalFramework/LitePal) An Android library that makes developers use SQLite database extremely easy.
 - [LeakCanary](https://github.com/square/leakcanary) A memory leak detection library for Android and Java.
+- [RoboElectric](https://github.com/robolectric/robolectric) Android Unit Testing Framework.
+- [Mockito](https://github.com/mockito/mockito) Mocking framework for unit tests written in Java.
+- [Triple-T - Gradle Play Publisher](https://github.com/Triple-T/gradle-play-publisher) Gradle Plugin to upload your APK and metadata to the Google Play Store.
 - [Material Design Icons](https://github.com/google/material-design-icons) Material Design icons by Google.
