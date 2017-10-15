@@ -16,6 +16,7 @@
 - [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) Android chart view / graph view library.
 - [ZXing](https://github.com/zxing/zxing) ZXing ("Zebra Crossing") barcode scanning library for Java, Android.
 - [QRGen](https://github.com/kenglxn/QRGen) A simple QRCode generation api for java built on top ZXING.
+- [Realm](https://github.com/realm/realm-java) Realm is a mobile database: a replacement for SQLite & ORMs.
 - [ORMLite](http://ormlite.com/sqlite_java_android_orm.shtml) Lightweight Java ORM Supports Android and SQLite.
 - [RxCache](https://github.com/VictorAlbertos/RxCache) Reactive caching library for Android and Java.
 - [LitePal](https://github.com/LitePalFramework/LitePal) An Android library that makes developers use SQLite database extremely easy.
