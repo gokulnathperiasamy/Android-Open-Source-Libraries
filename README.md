@@ -11,7 +11,7 @@
 - [Google Dagger](https://github.com/google/dagger) A fast dependency injector for Android and Java.
 - [Timber](https://github.com/JakeWharton/timber) A logger with a small, extensible API which provides utility on top of Android's normal Log class.
 - [Gson](https://github.com/google/gson) A Java serialization/deserialization library to convert Java Objects into JSON and back.
-- [EventBus](https://github.com/greenrobot/EventBus) Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. 
+- [EventBus](https://github.com/greenrobot/EventBus) Simplifies communication between Activities, Fragments, Threads, Services, etc. 
 - [Sensey](https://github.com/nisrulz/sensey) Play with sensor events & detect gestures in a snap.
 - [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) Android chart view / graph view library.
 - [ZXing](https://github.com/zxing/zxing) ZXing ("Zebra Crossing") barcode scanning library for Java, Android.
