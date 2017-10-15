@@ -23,7 +23,6 @@
 - [RoboElectric](https://github.com/robolectric/robolectric) Android Unit Testing Framework.
 - [Mockito](https://github.com/mockito/mockito) Mocking framework for unit tests written in Java.
 - [Triple-T - Gradle Play Publisher](https://github.com/Triple-T/gradle-play-publisher) Gradle Plugin to upload your APK and metadata to the Google Play Store.
-
 - [Material Design Icons](https://github.com/google/material-design-icons) Material Design icons by Google.
 - [Open Source UI Libraries](https://github.com/gokulnathperiasamy/Android-Open-Source-UI-Libraries) A curated list of awesome Android UI/UX libraries.
 
