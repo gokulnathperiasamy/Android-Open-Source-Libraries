@@ -58,7 +58,14 @@
 
 - [LeakCanary](https://github.com/square/leakcanary) A memory leak detection library for Android and Java.
 
-###### Encryption and Security:
+###### Encryption:
+
+- [Android Database SQLCipher](https://github.com/sqlcipher/android-database-sqlcipher) Android SQLite API based on SQLCipher.
+- [Facebook Conceal](https://github.com/facebook/conceal) Android APIs for performing fast encryption and authentication of data.
+
+###### Security:
+
+- [PasscodeLock-Android](https://github.com/wordpress-mobile/PasscodeLock-Android) Android Library that provides passcode lock to your app.
 
 ###### Testing:
 
@@ -68,7 +75,7 @@
 
 ###### Play Store Publishing:
 
-- [Triple-T - Gradle Play Publisher](https://github.com/Triple-T/gradle-play-publisher) Gradle Plugin to upload your APK and metadata to the Google Play Store.
+- [Triple-T Gradle Play Publisher](https://github.com/Triple-T/gradle-play-publisher) Gradle Plugin to upload your APK and metadata to the Google Play Store.
 
 ###### Other Libraries:
 
