@@ -34,6 +34,7 @@
 - [StyleableToast](https://github.com/Muddz/StyleableToast) Stylable toast.
 - [ArcNavigationView](https://github.com/rom4ek/ArcNavigationView) NavigationDrawer with Material concepts.
 - [ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView) A custom recycler view with shimmer views to indicate that views are loading.
+- [RxAndroid](https://github.com/ReactiveX/RxAndroid) RxJava bindings for Android.
 
 ###### Database:
 
@@ -73,16 +74,17 @@
 - [RoboElectric](https://github.com/robolectric/robolectric) Android Unit Testing Framework.
 - [Mockito](https://github.com/mockito/mockito) Mocking framework for unit tests written in Java.
 - [Spoon](https://github.com/square/spoon) Distributing instrumentation tests to all your Androids.
+- [SonarQube](https://docs.sonarqube.org/display/SCAN/Analyzing+with+SonarQube+Scanner+for+Gradle) Analyzing with SonarQube Scanner for Gradle.
 
 ###### Play Store Publishing:
 
 - [Triple-T Gradle Play Publisher](https://github.com/Triple-T/gradle-play-publisher) Gradle Plugin to upload your APK and metadata to the Google Play Store.
 
-###### Other Libraries:
+###### Other Resources:
 
-- [RxAndroid](https://github.com/ReactiveX/RxAndroid) RxJava bindings for Android.
 - [Material Design Icons](https://github.com/google/material-design-icons) Material Design icons by Google.
 - [Open Source UI Libraries](https://github.com/gokulnathperiasamy/Android-Open-Source-UI-Libraries) A curated list of awesome Android UI/UX libraries.
+- [Android Guide - CodePath](https://github.com/codepath/android_guides) Up-to-date practical Android developer guides for any topic.
 
 
 ### Author
