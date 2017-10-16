@@ -7,9 +7,10 @@
 - [ButterKnife](https://github.com/JakeWharton/butterknife) Bind Android views and callbacks to fields and methods.
 - [Google Dagger](https://github.com/google/dagger) A fast dependency injector for Android and Java.
 
-###### JSON Conversion:
+###### Parser:
 
 - [Gson](https://github.com/google/gson) A Java serialization/deserialization library to convert Java Objects into JSON and back.
+- [Jsoup](https://github.com/jhy/jsoup) Java HTML Parser, with best of DOM, CSS, and jquery.
 
 ###### Networking:
 
