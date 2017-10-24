@@ -28,6 +28,7 @@
 ###### Charts, Views and Icons:
 
 - [Android Times Square](https://github.com/square/android-times-square) Standalone Android widget for picking a single date from a calendar view.
+- [AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView) Loading indicator view.
 - [Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon) Google launcher-style implementation of switch (enable/disable) icon.
 - [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) Android chart view / graph view library.
 - [Toasty](https://github.com/GrenderG/Toasty) Customized toast.
