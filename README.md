@@ -77,7 +77,7 @@
 - [Spoon](https://github.com/square/spoon) Distributing instrumentation tests to all your Androids.
 - [SonarQube](https://docs.sonarqube.org/display/SCAN/Analyzing+with+SonarQube+Scanner+for+Gradle) Analyzing with SonarQube Scanner for Gradle.
 
-###### Play Store Publishing:
+###### Distribution / Publishing:
 
 - [Triple-T Gradle Play Publisher](https://github.com/Triple-T/gradle-play-publisher) Gradle Plugin to upload your APK and metadata to the Google Play Store.
 
