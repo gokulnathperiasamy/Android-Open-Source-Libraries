@@ -80,6 +80,7 @@
 ###### Distribution / Publishing:
 
 - [Triple-T Gradle Play Publisher](https://github.com/Triple-T/gradle-play-publisher) Gradle Plugin to upload your APK and metadata to the Google Play Store.
+- [Gradle HockeyApp Plugin](https://github.com/x2on/gradle-hockeyapp-plugin)
 
 ###### Other Resources:
 
