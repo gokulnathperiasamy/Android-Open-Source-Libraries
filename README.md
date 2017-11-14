@@ -5,7 +5,7 @@
 ###### Binding and Injection:
 
 - [ButterKnife](https://github.com/JakeWharton/butterknife) Bind Android views and callbacks to fields and methods.
-- [Google Dagger](https://github.com/google/dagger) A fast dependency injector for Android and Java.
+- [Google Dagger 2](https://github.com/google/dagger) A fast dependency injector for Android and Java.
 
 ###### Parser:
 
