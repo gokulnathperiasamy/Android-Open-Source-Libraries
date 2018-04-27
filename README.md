@@ -96,6 +96,8 @@
 - [Java - Libraries/Frameworks](https://github.com/akullpp/awesome-java)
 - [Hacking Tutorial](https://github.com/Hacker0x01/hacker101)
 - [Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
+- [Machine Learning](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months)
+- [GitHub Profile Summary](https://github.com/tipsy/profile-summary-for-github)
 
 
 ### Author
