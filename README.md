@@ -87,6 +87,7 @@
 - [Material Design Icons](https://github.com/google/material-design-icons) Material Design icons by Google.
 - [Open Source UI Libraries](https://github.com/gokulnathperiasamy/Android-Open-Source-UI-Libraries) A curated list of awesome Android UI/UX libraries.
 - [Android Guide - CodePath](https://github.com/codepath/android_guides) Up-to-date practical Android developer guides for any topic.
+- [Java Design Patterns](https://github.com/iluwatar/java-design-patterns)
 
 
 ### Author
