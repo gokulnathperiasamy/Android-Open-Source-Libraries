@@ -1,6 +1,6 @@
-# Android Open Source Libraries
+# Open Source Libraries and References
 
-> A collection of most popular and well known Android libraries.
+> A collection of most popular and well known open source libraries and references.
 
 ###### Binding and Injection:
 
@@ -15,6 +15,8 @@
 ###### Networking:
 
 - [OkHttp](https://github.com/square/okhttp) An HTTP+HTTP/2 client for Android and Java applications.
+- [OkHttp Logging Interceptor](https://github.com/square/okhttp/tree/master/okhttp-logging-interceptor) Http request/response logger.
+- [OkHttp Authenticator](https://square.github.io/okhttp/3.x/okhttp/okhttp3/Authenticator.html) Authenticator used to handle 401 errors.
 - [Retrofit](https://github.com/square/retrofit) Type-safe HTTP client for Android and Java applications.
 - [EventBus](https://github.com/greenrobot/EventBus) Simplifies communication between Activities, Fragments, Threads, Services, etc. 
 - [Otto](https://github.com/square/otto) An enhanced Guava-based event bus with emphasis on Android support.
@@ -35,6 +37,8 @@
 - [StyleableToast](https://github.com/Muddz/StyleableToast) Stylable toast.
 - [ArcNavigationView](https://github.com/rom4ek/ArcNavigationView) NavigationDrawer with Material concepts.
 - [ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView) A custom recycler view with shimmer views to indicate that views are loading.
+- [SwipeLayout](https://github.com/daimajia/AndroidSwipeLayout) Swipe to reveal a layout.
+- [SwipeRevealLayout](https://github.com/chthai64/SwipeRevealLayout) Swipe to reveal a layout. 
 - [RxAndroid](https://github.com/ReactiveX/RxAndroid) RxJava bindings for Android.
 
 ###### Database:
@@ -82,12 +86,16 @@
 - [Triple-T Gradle Play Publisher](https://github.com/Triple-T/gradle-play-publisher) Gradle Plugin to upload your APK and metadata to the Google Play Store.
 - [Gradle HockeyApp Plugin](https://github.com/x2on/gradle-hockeyapp-plugin) Gradle plugin for uploading Android Apps to HockeyApp.
 
-###### Other Resources:
+###### Assorted Resources:
 
-- [Material Design Icons](https://github.com/google/material-design-icons) Material Design icons by Google.
-- [Open Source UI Libraries](https://github.com/gokulnathperiasamy/Android-Open-Source-UI-Libraries) A curated list of awesome Android UI/UX libraries.
+- [Android - Material Design Icons](https://github.com/google/material-design-icons) Material Design icons by Google.
+- [Android - Open Source UI Libraries](https://github.com/gokulnathperiasamy/Android-Open-Source-UI-Libraries) A curated list of awesome Android UI/UX libraries.
 - [Android Guide - CodePath](https://github.com/codepath/android_guides) Up-to-date practical Android developer guides for any topic.
-- [Java Design Patterns](https://github.com/iluwatar/java-design-patterns)
+- [Java - Design Patterns](https://github.com/iluwatar/java-design-patterns)
+- [Java - Algorithms](https://github.com/TheAlgorithms/Java)
+- [Java - Libraries/Frameworks](https://github.com/akullpp/awesome-java)
+- [Hacking Tutorial](https://github.com/Hacker0x01/hacker101)
+- [Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
 
 
 ### Author
